@@ -1,0 +1,1 @@
+Programa en matlab que genera la normalizacion y procesamiento de imagenes  a partir de la ecualizacion del histograma
